@@ -7,5 +7,6 @@ A web app made using reactjs and a nodejs backend that allows users to view thei
 ## Installation
 1. Clone the repo
 2. `npm install` in both the find_my_airtag and back_airtags 
-3. `npm start` in back_airtags
-4. `npm start` in find_my_airtag
+3. replace "localhost" with your ip in config.json
+4. `npm start` in back_airtags
+5. `npm start` in find_my_airtag
